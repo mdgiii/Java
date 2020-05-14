@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LuckyNumbers_Gaither
+comment0.text=\r\n\ Michael\ Gaither\ III\r\n\ 1\ November\ 2019\r\n\ 6th\ period,\ AP\ Comp\ Sci\r\n\ \r\n\ LuckyNumbers_Gaither.java\r\n\ To\ generate\ three\ random\ "Lucky"\ numbers\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

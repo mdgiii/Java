@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fish
+comment1.params=type\ age\ gender\ weightInPounds\ lengthInInches\ finNum\ habitat
+comment1.target=Fish(java.lang.String,\ int,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ swim()
+comment3.params=
+comment3.target=void\ gotCaught()
+numComments=4

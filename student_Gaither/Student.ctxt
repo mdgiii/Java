@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=name\ score1\ score2
+comment1.target=Student(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ inputGrades()
+comment3.params=
+comment3.target=void\ getAverage()
+comment4.params=
+comment4.target=void\ getName()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

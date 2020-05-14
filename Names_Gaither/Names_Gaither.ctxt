@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Names_Gaither
+comment0.text=\r\n\ Michael\ Gaither\ III\r\n\ 29\ August\ 2019\r\n\ \r\n\ Names_Gaither.java\r\n\ Prints\ a\ list\ of\ student\ names\ with\ thier\ hometowns\r\n\ and\ indented\ major\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sales
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=total\ sp
+comment2.target=double\ average(int,\ double)
+comment3.params=sales
+comment3.target=java.lang.String\ minMax(int[])
+comment4.params=sales
+comment4.target=void\ targetSales(int[])
+numComments=5

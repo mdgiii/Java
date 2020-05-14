@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RollDieV3_Gaither
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ input()
+comment3.params=x
+comment3.target=int\ roll(int)
+comment4.params=totals\ totalRolls
+comment4.target=void\ output(int[],\ int)
+numComments=5

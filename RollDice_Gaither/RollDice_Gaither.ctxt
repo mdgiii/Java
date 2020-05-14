@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RollDice_Gaither
+comment0.text=\r\n\ Michael\ Gaither\ III\r\n\ 4\ November\ 2019\r\n\ 6th\ period,\ AP\ Comp\ Sci\r\n\ \r\n\ RollDice_Gaither.java\r\n\ Write\ a\ complete\ java\ program\ that\ simulates\ the\ rolling\r\n\ of\ a\ pair\ of\ dice.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=int\ roll(int)
+numComments=3

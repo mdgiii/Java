@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Bowling
+comment0.text=\r\n\ Michael\ Gaither\ III\r\n\ 28\ February\ 2020\r\n\ 6th\ period,\ AP\ Comp\ Sci\r\n\ \r\n\ Bowling_Gaither.java\r\n\ Create\ a\ program\ that\ uses\ 2D\ arrays\ to\ display\r\n\ bowling\ scores\ and\ averages.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

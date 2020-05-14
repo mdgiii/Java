@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RepeatedLetters_Gaither
+comment0.text=\r\n\ Michael\ Gaither\ III\r\n\ 15\ October\ 2019\r\n\ 6th\ period,\ AP\ Comp\ Sci\r\n\ \r\n\ RepeatedLetters_Gaither.java\r\n\ Uses\ methods\ called\ in\ the\ main\ method\ to\ print\ repeated\ letters.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printY()
+comment3.params=
+comment3.target=void\ printE()
+comment4.params=
+comment4.target=void\ printL()
+comment5.params=
+comment5.target=void\ printO()
+comment6.params=
+comment6.target=void\ printW()
+comment7.params=
+comment7.target=void\ printD()
+numComments=8

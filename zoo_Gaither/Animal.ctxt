@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Michael\ Gaither\ III\r\n\ 24\ January\ 2020\r\n\ 6th\ period,\ AP\ Comp\ Sci\r\n\ \r\n\ zoo_Gaither.java\r\n\ --Animal\ class\ (parent)--\r\n
+comment1.params=type\ age\ gender\ weightInPounds
+comment1.target=Animal(java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ eat()
+comment4.params=
+comment4.target=void\ sleep()
+numComments=5
