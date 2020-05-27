@@ -1,4 +1,4 @@
 # Java
 Java files from my AP Computer Science class. 
 
-To run code, Download [Bluej](https://bluej.org/).
+To run code, download [Bluej](https://bluej.org/).
